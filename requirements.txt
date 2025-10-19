@@ -1,0 +1,7 @@
+requests
+geocoder
+streamlit
+streamlit_option_menu
+pandas
+streamlit_javascript
+altair
